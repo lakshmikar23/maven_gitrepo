@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>conBanking</name>
   <url>http://maven.apache.org</url>
-  
+     <bulid>
       <plugins>
         <plugin>
             <artifactId>maven-compiler-plugin</artifactId>
@@ -18,6 +18,7 @@
             </configuration>
         </plugin>
     </plugins>
+	</bulid>
 
   <dependencies>
     <dependency>
